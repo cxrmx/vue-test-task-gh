@@ -1,4 +1,4 @@
-https://cxrmx.github.io/test-task/
+[DEMO LINK](https://cxrmx.github.io/test-task/)
 
 1. Data types in JS?
 JS has these data types: string, number, boolean, undefined, null, symbol, object, bigInt.
